@@ -127,7 +127,7 @@ MIT License – free to use, modify, and share.
 
 ---
 
-## SEO Keywords
+## Keywords
 
 `high ram usage windows 10`, `100% disk usage malware`, `spyware high memory`, `crypto miner detector offline`, `memory injection scanner`, `windows 11 slow startup malware`, `offline powershell malware scanner`, `remove memory hijacking malware`, `fix high cpu disk usage windows`
 
